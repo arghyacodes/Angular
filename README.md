@@ -3,6 +3,7 @@
 
 ## Step-0 : Prerequisites
 Node v22 and above
+Download from here : https://nodejs.org/en/download
 
 ### Step-1 : Clone this Repo into a directory
 git clone https://github.com/arghyacodes/Angular.git
